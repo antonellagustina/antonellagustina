@@ -1,4 +1,6 @@
-### Hi there 👋
+### *Hi 👋, I'm Antonella
+
+- I’m currently learning Microsoft .NET, Python, Javascript   :trollface:
 
 <!--
 **antonellagustina/antonellagustina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
