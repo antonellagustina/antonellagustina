@@ -2,7 +2,7 @@
 
 - I’m currently learning Microsoft .NET, Python, Javascript   :trollface:
 
-![Esta es una imagen](https://myoctocat.com/assets/images/octocats/octocat-18.svg)
+![Esta es una imagen](https://myoctocat.com/assets/images/octocats/octocat-18.png)
 <!--
 **antonellagustina/antonellagustina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
