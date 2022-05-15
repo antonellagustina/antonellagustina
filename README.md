@@ -2,7 +2,7 @@
 
 - I’m currently learning Microsoft .NET, Python, Javascript   :trollface:
 
-![Esta es una imagen](https://codinhood.com/static/37dace02523b69161f2e8ce9569d7dac/299c1/values.png) 
+![Esta es una imagen](https://codinhood.com/static/9a146dac647e7129fa173acc0b0d437f/299c1/octocat.png) 
 <!--
 **antonellagustina/antonellagustina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
